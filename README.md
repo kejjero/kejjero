@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/kejjero/kejjero/main/assets/banner.jpg)]
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **kejjero/kejjero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,12 +18,12 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I am currently studying at the Yandex Practicum a Web Developer (Frontend)
+<!-- - 🌱 I am currently studying at the Yandex Practicum a Web Developer (Frontend)
 
 
-Projects under development:
-Header
+Projects under development: -->
 
+<!-- 
 About me: 
 
 
@@ -29,4 +31,4 @@ Projects under development(ПРоекты в разработке):
 
 
 - 📫 How to reach me(Связаться со мной):
-email: kejeroarts@yandex.ru
+email: kejeroarts@yandex.ru -->
