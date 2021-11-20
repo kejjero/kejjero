@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/kejjero/kejjero/main/assets/banner.jpg)]
+![Header](https://raw.githubusercontent.com/kejjero/kejjero/main/assets/banner.jpg)
 
 <!-- ### Hi there 👋 -->
 
