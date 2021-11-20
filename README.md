@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🌱 I am currently studying at the Yandex Practicum a Web Developer (Frontend)
+
+
+Projects under development:
+Header
+
+About me: 
+
+
+Projects under development(ПРоекты в разработке):
+
+
+- 📫 How to reach me(Связаться со мной):
+email: kejeroarts@yandex.ru
