@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/kejjero/kejjero/main/assets/banner.jpg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kejjero&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kejjero&show_icons=true&theme=tokyonight&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kejjero&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### Hi there 👋 -->
