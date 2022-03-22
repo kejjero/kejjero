@@ -1,8 +1,9 @@
-# <h1>Привет, друг! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-### Меня зовут Максим и я Junior Frontend разработчик 👨‍💻
-#### Мои последние работы можно увидеть здесь: [Портфолио](https://kejero.pw) 
- <img src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" width="500" />
- 
+<!-- 
+<img src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" width="400" /> -->
+
+### Сайт-портфолио: 
+<img src="https://cdn-icons-png.flaticon.com/512/7135/7135133.png" width="25" /> [www.kejero.pw](www.kejero.pw)
+
 ### Приоритеты:
 + 🧼 Стараюсь писать чистый код
 + 🚀 Осваиваю новые технологии
