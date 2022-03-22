@@ -1,26 +1,37 @@
-<h1 align="center">Hi there, I'm <a href="https://kejero.pw" target="_blank">kejero</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm a Frontend developer from Siberia</h3>
+# <h1>Привет <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<!-- ### Мои последние работы можно увидеть здесь: [Портфолио](www.kejero.pw) -->
+### Приоритеты:
++ 🧼 Стараюсь писать чистый код
++ 🚀 Осваиваю новые технологии
++ ⏱ Учусь анализировать сложность алгоритмов / улучшать производительность
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kejjero&show_icons=true&theme=tokyonight&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kejjero&langs_count=8&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+### Используемые языки и технологии: 
+![Javascript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript)
+<!-- ![Typescript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Typescript) -->
+![ReactJS](https://img.shields.io/badge/-ReactJS-0d1117?style=for-the-badge&logo=React)
+<!-- ![Redux](https://img.shields.io/badge/-Redux-0d1117?style=for-the-badge&logo=Redux) -->
+<!-- ![API](https://img.shields.io/badge/-REST&#032;API-0d1117?style=for-the-badge) -->
+![Webpack](https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack)
+![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-0d1117?style=for-the-badge&logo=sass)
 
+![Metrics](https://metrics.lecoq.io/kejjero?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FAlmaty)
+
+### Codewars:
 [![Codewars](https://www.codewars.com/users/kejero/badges/small)](https://www.codewars.com/users/kejero)
 
-#### 🛠 Skills:
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align="left" width="26" alt="HTML5">]() HTML5
+<div align="center">
+  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=kejjero&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kejjero&&hide_border=trueshow_icons=true&theme=react"/>
+</div>
 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="left" width="26" alt="CSS">]() CSS
+<div align="center">
+  <img width="98%" src="https://activity-graph.herokuapp.com/graph?username=kejjero&hide_border=true&theme=react-dark"/>
+</div>
 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" align="left" width="26" alt="JavaScript">]() JavaScript
+### Контакты:
+### 🌐 Telegram: [@kejRRR](https://t.me/kejRRR)
+### 📧 Почта: kejerino@yandex.ru
 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" align="left" width="26" alt="React">]() React.js
-
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" align="left" width="26" alt="Git">]() Git
-
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" align="left" width="26" alt="Webpack">]() Webpack
-
-
-#### ✉️ Contacts: 
-- telegram: [@kejRRR](https://t.me/kejRRR)
-- kejerino@yandex.ru
+![](https://komarev.com/ghpvc/?username=kejjero&style=flat-square&color=blueviolet)
