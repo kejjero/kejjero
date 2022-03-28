@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" width="400" /> -->
 
 ### Сайт-портфолио: 
-<img src="https://cdn-icons-png.flaticon.com/512/7135/7135133.png" width="25" /> [www.kejero.pw](https://kejero.pw)
+<img src="https://cdn-icons-png.flaticon.com/512/7135/7135133.png" width="25" /> [www.kejero.pw](https://kejero.pw) (в разработке)
 
 ### Приоритеты:
 + 🧼 Стараюсь писать чистый код
