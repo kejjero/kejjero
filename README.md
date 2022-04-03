@@ -30,7 +30,8 @@
 </div>
 
 ### Контакты:
-### 🌐 Telegram: [@kejRRR](https://t.me/kejRRR)
-### 📧 Почта: kejerino@yandex.ru
+🌐 Telegram: [@kejRRR](https://t.me/kejRRR)
+
+📧 Почта: kejerino@yandex.ru
 
 ![](https://komarev.com/ghpvc/?username=kejjero&style=flat-square&color=blueviolet)
