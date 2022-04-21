@@ -1,11 +1,13 @@
-<!-- 
-<img src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" width="400" /> -->
-
-<!-- ### Сайт-портфолио: 
+### Сайт-портфолио: 
 <img src="https://cdn-icons-png.flaticon.com/512/7135/7135133.png" width="25" /> [www.kejero.pw](https://kejero.pw)
 
 ### Резюме:  
-<img src="https://cdn-icons.flaticon.com/png/512/4413/premium/4413537.png?token=exp=1650515526~hmac=ea43a61fc432648e9cf5ee2c1ad7d954" width="25" /> [Хабр.Карьера](https://career.habr.com/kejero)  -->
+<img src="https://cdn-icons.flaticon.com/png/512/4413/premium/4413537.png?token=exp=1650543371~hmac=bfce4bcf211e0224013438709219de41" width="25" /> [Хабр.Карьера](https://career.habr.com/kejero) 
+
+### Контакты:
+🌐 Telegram: [@kejRRR](https://t.me/kejRRR)
+
+📧 Почта: kejerino@yandex.ru
 
 ### Приоритеты:
 + 🧼 Стараюсь писать чистый код
@@ -28,11 +30,6 @@
 ![Metrics](https://metrics.lecoq.io/kejjero?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FAlmaty)
 ### Codewars:
 [![Codewars](https://www.codewars.com/users/kejero/badges/small)](https://www.codewars.com/users/kejero)
-
-### Контакты:
-🌐 Telegram: [@kejRRR](https://t.me/kejRRR)
-
-📧 Почта: kejerino@yandex.ru
 
 <div align="center">
   <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=kejjero&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
