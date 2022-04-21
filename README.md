@@ -2,7 +2,10 @@
 <img src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" width="400" /> -->
 
 ### Сайт-портфолио: 
-<!-- <img src="https://cdn-icons-png.flaticon.com/512/7135/7135133.png" width="25" /> [www.kejero.pw](https://kejero.pw) (в разработке) -->
+<img src="https://cdn-icons-png.flaticon.com/512/7135/7135133.png" width="25" /> [www.kejero.pw](https://kejero.pw) (в разработке)
+
+### Резюме: 
+<img src="https://cdn-icons.flaticon.com/png/512/4413/premium/4413537.png?token=exp=1650515526~hmac=ea43a61fc432648e9cf5ee2c1ad7d954" width="25" /> [Хабр.Карьера](https://career.habr.com/kejero) 
 
 ### Приоритеты:
 + 🧼 Стараюсь писать чистый код
