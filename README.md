@@ -33,7 +33,7 @@
 </div>
 
 ### Контакты:
-🌐 Telegram: [@kejRRR](https://t.me/kejRRR)
+🌐 Telegram: [kejRRR](https://t.me/kejRRR)
 
 📧 Почта: kejerino@yandex.ru
 
