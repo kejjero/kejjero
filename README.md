@@ -1,13 +1,5 @@
-### Сайт-портфолио: 
-<img src="https://cdn-icons-png.flaticon.com/512/7135/7135133.png" width="25" /> [www.kejero.pw](https://kejero.pw)
-
-### Резюме:  
-<img src="https://cdn-icons.flaticon.com/png/512/4413/premium/4413537.png?token=exp=1650543371~hmac=bfce4bcf211e0224013438709219de41" width="25" /> [Хабр.Карьера](https://career.habr.com/kejero) 
-
-### Контакты:
-🌐 Telegram: [@kejRRR](https://t.me/kejRRR)
-
-📧 Почта: kejerino@yandex.ru
+<img src="https://cdn-icons-png.flaticon.com/512/7135/7135133.png" width="25" /> [сайт-протфолио](https://kejero.pw)  
+<img src="https://cdn-icons.flaticon.com/png/512/4413/premium/4413537.png?token=exp=1650543371~hmac=bfce4bcf211e0224013438709219de41" width="25" /> [Резюме](https://career.habr.com/kejero) 
 
 ### Приоритеты:
 + 🧼 Стараюсь писать чистый код
@@ -40,4 +32,8 @@
   <img width="98%" src="https://activity-graph.herokuapp.com/graph?username=kejjero&hide_border=true&theme=react-dark"/>
 </div>
 
-![](https://komarev.com/ghpvc/?username=kejjero&style=flat-square&color=blueviolet)
+### Контакты:
+🌐 Telegram: [@kejRRR](https://t.me/kejRRR)
+
+📧 Почта: kejerino@yandex.ru
+
