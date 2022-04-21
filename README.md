@@ -1,4 +1,4 @@
-<img src="https://cdn-icons-png.flaticon.com/512/7135/7135133.png" width="25" /> [сайт-протфолио](https://kejero.pw)  
+<img src="https://cdn-icons-png.flaticon.com/512/7135/7135133.png" width="25" /> [Сайт-протфолио](https://kejero.pw)  
 <img src="https://cdn-icons.flaticon.com/png/512/4413/premium/4413537.png?token=exp=1650543371~hmac=bfce4bcf211e0224013438709219de41" width="25" /> [Резюме](https://career.habr.com/kejero) 
 
 ### Приоритеты:
