@@ -15,8 +15,11 @@
 ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
 ![CSSS](https://img.shields.io/badge/-SASS-0d1117?style=for-the-badge&logo=sass)
 ![API](https://img.shields.io/badge/-Api-0d1117?style=for-the-badge&logo=Api)
+
+### Графические редакторы: 
 ![PHOTOSHOP](https://img.shields.io/badge/-Photoshop-0d1117?style=for-the-badge&logo=adobePhotoshop)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-0d1117?style=for-the-badge&logo=adobeIllustrator)
+![After Effects](https://img.shields.io/badge/-After_Effects-0d1117?style=for-the-badge&logo=adobeaftereffects)
 ![Figma](https://img.shields.io/badge/-Figma-0d1117?style=for-the-badge&logo=Figma)
 
 ![Metrics](https://metrics.lecoq.io/kejjero?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FAlmaty)
