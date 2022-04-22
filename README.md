@@ -1,4 +1,4 @@
-### Контакты:
+### Связаться со мной:
 🌐 Telegram: [kejRRR](https://t.me/kejRRR)
 
 📧 Почта: kejerino@yandex.ru
