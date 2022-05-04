@@ -20,7 +20,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
 ![CSSS](https://img.shields.io/badge/-SASS-0d1117?style=for-the-badge&logo=sass)
 ![Webpack](https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack)
-![API](https://img.shields.io/badge/-Api-0d1117?style=for-the-badge&logo=Api)
 
 ### Графические редакторы: 
 ![PHOTOSHOP](https://img.shields.io/badge/-Photoshop-0d1117?style=for-the-badge&logo=adobePhotoshop)
