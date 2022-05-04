@@ -2,13 +2,13 @@
 <img src="https://i.ibb.co/Vvbx3DF/resume-and-cv.png" width="25" />[Резюме](https://career.habr.com/kejero) 
 
 ### Связаться со мной:
-🌐 Telegram: [kejRRR](https://t.me/kejRRR)
-📧 Почта: kejerino@yandex.ru
++ 🌐 Telegram: [kejRRR](https://t.me/kejRRR)
++ 📧 Почта: kejerino@yandex.ru
 
 ### Приоритеты:
-💎 Стараюсь писать лаконичный и содержательный код
-🔥 Осваиваю TypeScript, React.js и Redux
-🚀 Закрепляю изученный материал созданием pet-проектов (от UX/UI дизайна до написания логики) 
++ 💎 Стараюсь писать лаконичный и содержательный код
++ 🔥 Осваиваю TypeScript, React.js и Redux
++ 🚀 Закрепляю изученный материал созданием pet-проектов (от UX/UI дизайна до написания логики) 
 
 ### Используемые языки и технологии: 
 ![Javascript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript) ![Typescript](https://img.shields.io/badge/-Typescript-0d1117?style=for-the-badge&logo=Typescript)![ReactJS](https://img.shields.io/badge/-ReactJS-0d1117?style=for-the-badge&logo=React)![React_router](https://img.shields.io/badge/-React_router-0d1117?style=for-the-badge&logo=react-router)![Redux](https://img.shields.io/badge/-Redux-0d1117?style=for-the-badge&logo=Redux)![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5)![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)![CSSS](https://img.shields.io/badge/-SASS-0d1117?style=for-the-badge&logo=sass)![Webpack](https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack)
