@@ -1,5 +1,5 @@
-<img src="https://cdn-icons-png.flaticon.com/512/7135/7135133.png" width="25" /> [Portfolio](https://kejero.pw)  
-<img src="https://i.ibb.co/Vvbx3DF/resume-and-cv.png" width="25" />[CV](https://career.habr.com/kejero) 
+<img src="https://cdn-icons-png.flaticon.com/512/7135/7135133.png" width="25" /> [www.kejero.pw](https://kejero.pw)  
+<img src="https://i.ibb.co/Vvbx3DF/resume-and-cv.png" width="25" />[Resume](https://career.habr.com/kejero) 
 
 ### Связаться со мной:
 + 🌐 Telegram: [kejRRR](https://t.me/kejRRR)
