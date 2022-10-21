@@ -2,8 +2,8 @@
 <img src="https://i.ibb.co/Vvbx3DF/resume-and-cv.png" width="25" />[Resume](https://career.habr.com/kejero) 
 
 ### Связаться со мной:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/kejrrr)
-[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=FF0000)](mailto:kejerino@yandex.ru)
+[![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram)](https://t.me/kejrrr)
+[![Gmail](https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail)](mailto:kejerino@yandex.ru)
 
 ### Используемые языки и технологии: 
 ![Javascript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript) ![Typescript](https://img.shields.io/badge/-Typescript-0d1117?style=for-the-badge&logo=Typescript)![React](https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=React) ![Vue](https://img.shields.io/badge/-Vue-0d1117?style=for-the-badge&logo=Vue.js) ![Redux](https://img.shields.io/badge/-Redux-0d1117?style=for-the-badge&logo=Redux) ![jest](https://img.shields.io/badge/-jest_+_enzyme-0d1117?style=for-the-badge&logo=jest) ![next](https://img.shields.io/badge/-next.js-0d1117?style=for-the-badge&logo=next.js) ![CSSS](https://img.shields.io/badge/-SASS-0d1117?style=for-the-badge&logo=sass) ![Styled Components](https://img.shields.io/badge/-Styled_Components-0d1117?style=for-the-badge&logo=Styled-Components) ![React_router](https://img.shields.io/badge/-React_router-0d1117?style=for-the-badge&logo=react-router) ![Webpack](https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack) ![Axios](https://img.shields.io/badge/-Axios-0d1117?style=for-the-badge&logo=Axios)![nodejs](https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=node.js)![express](https://img.shields.io/badge/-express-0d1117?style=for-the-badge&logo=express) ![mongodb](https://img.shields.io/badge/-mongo_db-0d1117?style=for-the-badge&logo=mongodb)
