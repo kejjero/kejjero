@@ -12,6 +12,15 @@
 ### Графические редакторы: 
 ![PHOTOSHOP](https://img.shields.io/badge/-Photoshop-0d1117?style=for-the-badge&logo=adobePhotoshop)![Illustrator](https://img.shields.io/badge/-Illustrator-0d1117?style=for-the-badge&logo=adobeIllustrator)![After Effects](https://img.shields.io/badge/-After_Effects-0d1117?style=for-the-badge&logo=adobeaftereffects)![Cinema4d](https://img.shields.io/badge/-Cinema_4d-0d1117?style=for-the-badge&logo=Cinema4d)![Figma](https://img.shields.io/badge/-Figma-0d1117?style=for-the-badge&logo=Figma)
 
+<div>
+  <div align="center">
+    <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kejjero&theme=github_dark">
+  <div>
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=kejjero&theme=github-dark-blue&hide_border=&locale=ru">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=kejjero&theme=github_dark&hide_border=&locale=ru">
+
+</div>
+
 ![Metrics](https://metrics.lecoq.io/kejjero?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FAlmaty)
 ### Codewars:
 [![Codewars](https://www.codewars.com/users/kejero/badges/small)](https://www.codewars.com/users/kejero)
