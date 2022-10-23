@@ -1,6 +1,8 @@
 <img src="https://cdn-icons-png.flaticon.com/512/7135/7135133.png" width="25" /> [www.kejero.pw](https://kejero.pw)  
 <img src="https://i.ibb.co/Vvbx3DF/resume-and-cv.png" width="25" />[Resume](https://career.habr.com/kejero) 
 
+[Linkedin](https://www.linkedin.com/in/maxim-peters-560711254) 
+
 ### Codewars:
 [![Codewars](https://www.codewars.com/users/kejero/badges/small)](https://www.codewars.com/users/kejero)
 
