@@ -25,7 +25,7 @@
   <div>
 
 </div>
-<div align="center">
+<div align="flext-start">
   <img width="98%" src="https://activity-graph.herokuapp.com/graph?username=kejjero&hide_border=true&theme=react-dark"/>
 </div>
 
