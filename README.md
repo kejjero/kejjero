@@ -23,7 +23,7 @@
 <div>
   <div align="center">
     <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=kejjero&theme=github-dark-blue&hide_border=&locale=ru">
-    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=woofmgn&show_icons=true&theme=dark&title_color=cfcece&text_color=c7c7c7&locale=en&layout=compact" alt="woofmgn" />
+    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kejjero&show_icons=true&theme=dark&title_color=cfcece&text_color=c7c7c7&locale=en&layout=compact" alt="woofmgn" />
 
   <div>
 
