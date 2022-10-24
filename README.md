@@ -21,9 +21,10 @@
 [![Codewars](https://www.codewars.com/users/kejero/badges/small)](https://www.codewars.com/users/kejero)
 
 <div>
-  <div align="flex-start">
+  <div align="center">
     <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=kejjero&theme=github-dark-blue&hide_border=&locale=ru">
-        <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kejjero&theme=github_dark">
+    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=woofmgn&show_icons=true&theme=dark&title_color=cfcece&text_color=c7c7c7&locale=en&layout=compact" alt="woofmgn" />
+
   <div>
 
 </div>
