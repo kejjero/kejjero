@@ -3,7 +3,7 @@
 ### Resume/CV
 [hh.ru](https://hh.ru/resume/b071ac9cff09e030b20039ed1f657659444e61)
 
-[Habr](https://career.habr.com/kejero)
+<!-- [Habr](https://career.habr.com/kejero) -->
 
 [Linkedin](https://www.linkedin.com/in/maxim-peters-560711254) 
 
