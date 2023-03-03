@@ -23,11 +23,4 @@
 ### Graphics
 ![PHOTOSHOP](https://img.shields.io/badge/-Photoshop-0d1117?style=for-the-badge&logo=adobePhotoshop)![Illustrator](https://img.shields.io/badge/-Illustrator-0d1117?style=for-the-badge&logo=adobeIllustrator)![After Effects](https://img.shields.io/badge/-After_Effects-0d1117?style=for-the-badge&logo=adobeaftereffects)![Cinema4d](https://img.shields.io/badge/-Cinema_4d-0d1117?style=for-the-badge&logo=Cinema4d)![Figma](https://img.shields.io/badge/-Figma-0d1117?style=for-the-badge&logo=Figma)
 
-<!-- ### Codewars
-[![Codewars](https://www.codewars.com/users/kejero/badges/small)](https://www.codewars.com/users/kejero) -->
-
-<div>
-  <div align="center">
-    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=kejjero&theme=github-dark-blue&hide_border=&locale=en">
-    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kejjero&show_icons=true&theme=dark&title_color=cfcece&text_color=c7c7c7&locale=en&layout=compact" alt="woofmgn" />
 
