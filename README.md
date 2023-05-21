@@ -12,15 +12,14 @@
 ### Frontend
 ![Javascript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript) ![Typescript](https://img.shields.io/badge/-Typescript-0d1117?style=for-the-badge&logo=Typescript) ![React](https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=React) ![Redux](https://img.shields.io/badge/-Redux-0d1117?style=for-the-badge&logo=Redux) ![mobx](https://img.shields.io/badge/-mobx-0d1117?style=for-the-badge&logo=mobx) ![React-query](https://img.shields.io/badge/-React_query-0d1117?style=for-the-badge&logo=React-query) ![jest](https://img.shields.io/badge/-jest_&_enzyme-0d1117?style=for-the-badge&logo=jest) ![React Testing Library](https://img.shields.io/badge/-RTL-0d1117?style=for-the-badge&logo=Testing-Library) ![next](https://img.shields.io/badge/-next.js-0d1117?style=for-the-badge&logo=next.js) ![Material UI](https://img.shields.io/badge/-Material_UI-0d1117?style=for-the-badge&logo=mui) ![Javascript](https://img.shields.io/badge/-ant_Design-0d1117?style=for-the-badge&logo=ant-design) ![chart.js](https://img.shields.io/badge/-chart.js-0d1117?style=for-the-badge&logo=chart.js) ![CSSS](https://img.shields.io/badge/-SCSS/modules-0d1117?style=for-the-badge&logo=sass) ![Tailwind](https://img.shields.io/badge/-tailwind-0d1117?style=for-the-badge&logo=tailwindcss) ![Storybook](https://img.shields.io/badge/-Storybook-0d1117?style=for-the-badge&logo=Storybook) ![Styled Components](https://img.shields.io/badge/-Styled_Components-0d1117?style=for-the-badge&logo=Styled-Components) ![React_router](https://img.shields.io/badge/-React_router-0d1117?style=for-the-badge&logo=react-router) ![Webpack](https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack) ![Axios](https://img.shields.io/badge/-Axios-0d1117?style=for-the-badge&logo=Axios) ![React-hook-form](https://img.shields.io/badge/-React_hook_form-0d1117?style=for-the-badge&logo=React-hook-form) ![Formik](https://img.shields.io/badge/-formik-0d1117?style=for-the-badge&logo=formik) ![Rollup](https://img.shields.io/badge/-Rollup-0d1117?style=for-the-badge&logo=Rollup.js) ![i18n](https://img.shields.io/badge/-i18next-0d1117?style=for-the-badge&logo=i18next)
 
-
-
 ### Backend
 ![nodejs](https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=node.js) ![express](https://img.shields.io/badge/-express-0d1117?style=for-the-badge&logo=express) ![mongodb](https://img.shields.io/badge/-mongo_db-0d1117?style=for-the-badge&logo=mongodb) ![nest](https://img.shields.io/badge/-nest.js-0d1117?style=for-the-badge&logo=nestjs) ![Passort.js](https://img.shields.io/badge/-passport.js-0d1117?style=for-the-badge&logo=Passport) ![jwt](https://img.shields.io/badge/-JWT-0d1117?style=for-the-badge&logo=json)
+
+### Mobile
+![react_native](https://img.shields.io/badge/-react_native-0d1117?style=for-the-badge&logo=react) ![expo](https://img.shields.io/badge/-expo-0d1117?style=for-the-badge&logo=expo)
 
 ### Deploy
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-0d1117?style=for-the-badge&logo=Ubuntu) ![Nginx](https://img.shields.io/badge/-Nginx-0d1117?style=for-the-badge&logo=Nginx) 
 
-### Graphics
-![PHOTOSHOP](https://img.shields.io/badge/-Photoshop-0d1117?style=for-the-badge&logo=adobePhotoshop) ![Illustrator](https://img.shields.io/badge/-Illustrator-0d1117?style=for-the-badge&logo=adobeIllustrator) ![After Effects](https://img.shields.io/badge/-After_Effects-0d1117?style=for-the-badge&logo=adobeaftereffects) ![Cinema4d](https://img.shields.io/badge/-Cinema_4d-0d1117?style=for-the-badge&logo=Cinema4d) ![Figma](https://img.shields.io/badge/-Figma-0d1117?style=for-the-badge&logo=Figma)
 
 
