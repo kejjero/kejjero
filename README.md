@@ -1,6 +1,6 @@
 ## [www.kejero.pw](https://kejero.pw)  
 
-### Resume/CV
+### Resume
 [hh.ru](https://hh.ru/resume/b071ac9cff09e030b20039ed1f657659444e61)
 
 [Linkedin](https://www.linkedin.com/in/maxim-peters-560711254) 
