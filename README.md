@@ -1,10 +1,3 @@
-## [www.kejero.pw](https://kejero.pw)  
-
-### Resume
-[hh.ru](https://hh.ru/resume/b071ac9cff09e030b20039ed1f657659444e61)
-
-[Linkedin](https://www.linkedin.com/in/maxim-peters-560711254) 
-
 ### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram)](https://t.me/kejrrr)
 [![Gmail](https://img.shields.io/badge/-email-0d1117?style=for-the-badge&logo=gmail)](mailto:kejerino@yandex.ru)
